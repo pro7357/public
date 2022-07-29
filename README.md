@@ -1,8 +1,1 @@
-# public
-Public stuff.
-
-## Getting started
-Start
-
-## Test Mirror
-Test
+/tmp/j/.com/README.md
